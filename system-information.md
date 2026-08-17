@@ -1,0 +1,40 @@
+# System Information
+
+## Linux Distribution
+
+* **Distribution:** Ubuntu
+* **Version:** Ubuntu 24.04.4 LTS (Noble Numbat)
+* **Version ID:** 24.04
+* **Codename:** noble
+* **ID:** ubuntu
+* **ID Like:** debian
+
+## Kernel Version
+
+* **Kernel:** 6.8.0-136-generic
+
+## CPU Information
+
+* **Architecture:** x86_64
+* **CPU:** Intel Xeon E312xx (Sandy Bridge, IBRS update)
+* **CPU(s):** 1
+* **Core(s) per socket:** 1
+* **Socket(s):** 1
+* **Threads per core:** 1
+* **Virtualization:** KVM
+
+## Memory
+
+* **Total Memory:** 1.9 GiB
+* **Used Memory:** 427 MiB
+* **Free Memory:** 848 MiB
+* **Available Memory:** 1.4 GiB
+* **Swap:** 1.0 GiB
+
+## Disk Space
+
+* **Root Filesystem:** /dev/vda1
+* **Total Disk Space:** 19 GB
+* **Used Space:** 5.4 GB
+* **Available Space:** 13 GB
+* **Disk Usage:** 30%
